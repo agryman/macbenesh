@@ -1,0 +1,1 @@
+/*	name:	:src:toolbox:window.h	type:	C++		This file declares functions for use with windows.Programmers:AGR	Arthur RymanChange History:AGR	V100	1994/08/17	Created.*/#ifndef TOOLBOX_WINDOW_H#define TOOLBOX_WINDOW_H#ifndef HEADER_H#include ":src:header.h"#endifvoid CentreWindow(WindowPtr);#endif

@@ -1,0 +1,1 @@
+/*	name:	:menu:applmenu.c	type:	C++		This is the implementation of the AppleMenu class.	Programmers:AGR	Arthur RymanChange History:AGR	V100	1997/01/08	Created.*/#ifndef MENU_APPLMENU_H#include ":src:menu:applmenu.h"	// AppleMenu#endifAppleMenu::AppleMenu () : Menu (ID){	addResMenu ('DRVR');	// add desk accessories}AppleMenu::~AppleMenu (){}

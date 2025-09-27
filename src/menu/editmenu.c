@@ -1,0 +1,1 @@
+/*	name:	:menu:editmenu.c	type:	C++		This is the implementation of the EditMenu class.	Programmers:AGR	Arthur RymanChange History:AGR	V100	1997/01/17	Created.*/#ifndef MENU_EDITMENU_H#include ":src:menu:editmenu.h"	// EditMenu#endifEditMenu::EditMenu () : Menu (ID){}EditMenu::~EditMenu (){}

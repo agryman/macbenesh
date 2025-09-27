@@ -1,0 +1,1 @@
+resource 'DLOG' (197) {	{100, 144, 148, 368},	dBoxProc,	visible,	noGoAway,	0x0,	197,	"P"};resource 'DITL' (197, purgeable) {	{	/* array DITLarray: 1 elements */		/* [1] */		{8, 10, 60, 224},		StaticText {			disabled,			"To cancel printing hold down the \0x11 key a"			"nd type a period(.)."		}	}};

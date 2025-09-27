@@ -1,0 +1,1 @@
+/*	name:	version.r	type:	rez		This file defines the BNSH 0 resource which is a Pascal stringthat the Finder displays in the Get Info dialog box as the versionof the application.Programmers:AGR	Arthur RymanChange History:AGR	V100	1995/08/08	Created.*/type 'BNSH'{	pstring;};resource 'BNSH' (0, "Version", appheap, preload){	"MacBenesh 6.0"	/* Version */};

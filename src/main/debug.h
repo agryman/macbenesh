@@ -1,0 +1,1 @@
+/*	name:	:main:debug.h	type:	C++	This file contains definitions for debugging.Programmers:AGR	Arthur RymanChange History:AGR	V100	1993/11/26	Split out of benesh.h.*/#ifndef MAIN_DEBUG_H#define MAIN_DEBUG_H// #define DEBUG #endif

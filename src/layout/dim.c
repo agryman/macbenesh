@@ -1,0 +1,1 @@
+/*	name:	:layout:dim.c	type:	MWP C++ 3.2	Conversion factors are included here.Programmers:AGR	Arthur RymanChange History:AGR	V100	1992/08/22	Added conversion factors.*/const float PTS_PER_INCH = 72.0;const float CMS_PER_INCH = 2.54;const float PTS_PER_CM = PTS_PER_INCH / CMS_PER_INCH;

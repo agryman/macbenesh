@@ -1,0 +1,1 @@
+/*	name:	:menu:frammenu.c	type:	C++		This is the implementation of the FramesMenu class.	Programmers:AGR	Arthur RymanChange History:AGR	V100	1997/01/17	Created.*/#ifndef MENU_FRAMMENU_H#include ":src:menu:frammenu.h"	// FramesMenu#endifFramesMenu::FramesMenu () : Menu (ID){}FramesMenu::~FramesMenu (){}

@@ -1,0 +1,1 @@
+/* * Version 3 of the Macintosh Editor for Benesh Movement Notation * Copyright 1984 by Doug Moen * * paint.hAGR	V100	1994/11/16	Remove global variable definition.*/ #ifndef FILE_PAINT_H#define FILE_PAINT_Hextern OSType PaintCreator;	// V100extern OSType PaintType;	// V100#define PaintWidth  576#define PaintBytes  (PaintWidth / 8)#define PaintHeight 720#endif

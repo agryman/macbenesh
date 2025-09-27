@@ -1,0 +1,1 @@
+/*	name:	Benesh.r	type:	Rez		This resource description file includes Benesh.rsrc. The user edits theseresource directly with ResEdit.Programmers:AGR	Arthur RymanChange History:AGR	V100	1992/12/03	Created.*/include "Benesh.rsrc";				// resources with no rez source

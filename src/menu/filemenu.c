@@ -1,0 +1,1 @@
+/*	name:	:menu:filemenu.c	type:	C++		This is the implementation of the FileMenu class.	Programmers:AGR	Arthur RymanChange History:AGR	V100	1997/01/17	Created.*/#ifndef MENU_FILEMENU_H#include ":src:menu:filemenu.h"	// FileMenu#endifFileMenu::FileMenu () : Menu (ID){}FileMenu::~FileMenu (){}

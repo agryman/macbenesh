@@ -1,0 +1,1 @@
+/*	name:	:menu:signmenu.c	type:	C++		This is the implementation of the SignsMenu class.	Programmers:AGR	Arthur RymanChange History:AGR	V100	1997/01/17	Created.*/#ifndef MENU_SIGNMENU_H#include ":src:menu:signmenu.h"	// SignsMenu#endifSignsMenu::SignsMenu () : Menu (ID){}SignsMenu::~SignsMenu (){}
